@@ -1,6 +1,3 @@
-# Organizify-Project
-Adjuntar sus HTML,CSS, JSS e Imagenes, Videos 
-
 Organizify
 Información del Proyecto
 Organizify es una startup fundada por estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC) con el objetivo de optimizar y organizar espacios de manera eficiente. Nuestro aplicativo, intuitivo y fácil de usar, ofrece herramientas poderosas para planificar, diseñar y maximizar el potencial de cualquier espacio, ya sea en el hogar, la oficina o cualquier otro entorno. Organizify se basa en un aplicativo que utiliza algoritmos avanzados para sugerir disposiciones óptimas, teniendo en cuenta las dimensiones del espacio y las necesidades específicas del usuario. Con Organizify, simplificamos el proceso de organización y ayudamos a nuestros usuarios a lograr resultados sorprendentes.
